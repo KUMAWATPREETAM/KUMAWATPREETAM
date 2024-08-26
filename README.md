@@ -3,7 +3,7 @@
 <img
   src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjF6OWthMHJkbTh3c3U0Y3AwMnFlOWl0MW93YzN3NTBpZWppYm9ieCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.webp"
   align="right"
-  style="border-radius: 10px; width: 400px; height: 400px;"
+  style="border-radius: 10px; width: 400px; height: 200px;"
   alt=""
 />
 
